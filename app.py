@@ -14,7 +14,7 @@ ml_model = joblib.load(mul_reg)
 @app.route('/')
 
 def Home():
-    return render_template('home.html')
+    return render_template('index.html')
 
 
 @app.route('/predict',methods=['GET','POST'])
