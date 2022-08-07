@@ -1,8 +1,7 @@
 # Profit_Prediction_Startups
 
-
-
 ## Dataset:
+![images](https://user-images.githubusercontent.com/96677478/183285364-ba18a7f7-7773-4302-8618-dec4c87da433.png)
 The Dataset can be found on Kaggle https://www.kaggle.com/datasets/farhanmd29/50-startups. The data includes the R&D Spend,Administration Spend,Marketing Spend.Only 3 states are included in this one Florida,California and New York.
 
 ## Algorithm Used:
