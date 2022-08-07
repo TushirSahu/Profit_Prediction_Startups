@@ -1,8 +1,9 @@
 # Profit_Prediction_Startups
 
 
+
 ## Dataset:
-The Dataset can be found on Kaggle https://www.kaggle.com/datasets/farhanmd29/50-startups.The data includes the R&D Spend,Administration Spend,Marketing Spend.Only 3 states are included in this one Florida,California and New York.
+The Dataset can be found on Kaggle https://www.kaggle.com/datasets/farhanmd29/50-startups. The data includes the R&D Spend,Administration Spend,Marketing Spend.Only 3 states are included in this one Florida,California and New York.
 
 ## Algorithm Used:
 I have used the Linear Regression Algorithm for predicting the Startups Profit.It can also be done using other algorithms also but i preferred the 
